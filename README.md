@@ -6,7 +6,7 @@ You want to push tests down the Test Triangle (https://angryweasel.com/blog/the-
 https://www.blazemeter.com/blog/top-15-ui-test-automation-best-practices-you-should-follow
 
 Resources
-https://testautomationpatterns.org/wiki/index.php/Diagnostic
+https://testautomationpatterns.org/wiki/index.php/Diagnostic <br>
 https://automationpanda.com
 https://beaufortfairmont.com/
 
