@@ -7,3 +7,6 @@ https://www.blazemeter.com/blog/top-15-ui-test-automation-best-practices-you-sho
 
 Resources
 https://testautomationpatterns.org/wiki/index.php/Diagnostic
+https://automationpanda.com
+https://beaufortfairmont.com/
+
