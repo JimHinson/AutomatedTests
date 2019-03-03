@@ -9,6 +9,9 @@ https://testautomationpatterns.org/wiki/index.php/Diagnostic <br>
 https://automationpanda.com <br>
 https://beaufortfairmont.com/
 
+<H2>Frameworks to research</h2>
+https://github.com/angiejones/automation-framework
+
 <H3>Unsure</H3>
 https://angryweasel.com/blog/the-test-automation-snowman/
 
